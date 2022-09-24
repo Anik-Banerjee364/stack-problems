@@ -8,7 +8,7 @@ Explanation: Traversing the given input span for 100 will be 1, 80 is smaller th
 Input: N = 6, price[] = [10 4 5 90 120 80]
 Output:1 1 2 4 5 1
 Explanation: Traversing the given input span for 10 will be 1, 4 is smaller than 10 so the span will be 1, 5 is greater than 4 so the span will be 2 and so on. Hence, the output will be 1 1 2 4 5 1.
-
+concept is same as that finding next greater element to the left
 
 
 #include<bits/stdc++.h>
